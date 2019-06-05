@@ -1,0 +1,1 @@
+$(".dameonsLink").html("<a href='https://axel12gt.github.io/Crystal-Collector/'></a>")
